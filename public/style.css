@@ -39,6 +39,7 @@ img + p {
 
 a {
     color: #CC2936;
+    word-wrap: break-word;
 }
 
 /*
